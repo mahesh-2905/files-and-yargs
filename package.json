@@ -1,0 +1,20 @@
+{
+  "name": "files_and_yargs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "files",
+    "yargs"
+  ],
+  "author": "mahesh",
+  "license": "ISC"
+}
